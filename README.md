@@ -1,5 +1,7 @@
 # 【开源】未明子哲学课笔记
 
+#### 该笔记由tcsnzh编写，若有问题则由此人承担。
+
 ### 开始
 
 * [查看笔记](./笔记)
@@ -24,15 +26,8 @@
 
 > qq群：242700731
 
-* 为什么笔记里有很多英文，看得我好难受
-
-> 这是因为要规避关键字，在`util`目录下有`sensitive_word_replace_english.json`这个替换列表，以及`py_script/word_replace.py`这个替换脚本。
->
-> 你可以下载到本地，倒着替换回去看。
-
 * gitee的仓库不见了？
 
-> 监管压力，总是被夹掉，已迁移至[github](https://github.com/tcsnzh/vmz-ismism-note-repo)。
+> 已迁移至[github](https://github.com/tcsnzh/vmz-ismism-note-repo)。
 >
-> 原仓库仍然保留于[gitee](https://gitee.com/tcsn_site/vmz-ismism)。
 

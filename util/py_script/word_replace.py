@@ -17,8 +17,8 @@ def word_replace(text: str, mapper: dict) -> (bool, str):
 
 if __name__ == "__main__":
     print("opening dict ... ")
-    #with open("../sensitive_word_replace_english.json", encoding="utf8") as fp:
-    with open("../sensitive_word_goback.json", encoding="utf8") as fp:
+    with open("../sensitive_word_replace_english.json", encoding="utf8") as fp:
+    #with open("../sensitive_word_goback.json", encoding="utf8") as fp:
         json_data = json.load(fp)
         # print(json_data)
     print("checking markdown notes ... ")
